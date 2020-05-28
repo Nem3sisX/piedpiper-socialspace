@@ -62,10 +62,8 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Python](https://www.python.org/) - Backend
+- To be Updated soon!
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@abhinavvx](https://github.com/abhinavvx) 
@@ -80,6 +78,5 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/ - [Counter Reference]
+- 
