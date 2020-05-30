@@ -34,7 +34,7 @@
 Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we believe that there is a need for effective monitoring of social distancing and crowd control. Also, there appears to be a significant shift towards ML/Neural Net based approaches to harness computational horsepower for real world applications.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
-A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety.
+A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety. This is aimed as a customer-enterprise duo application where both parties can ensure their safety in the coronavirus pandemic of 2020.
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 - To be Updated soon!
