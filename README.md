@@ -31,7 +31,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
-Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we thought that there was a need for effective monitoring of social distancing and crowd control.
+Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we believe that there is a need for effective monitoring of social distancing and crowd control.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring.
@@ -62,7 +62,6 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 - [Python](https://www.python.org/) - Backend
-- 
 - To be Updated soon!
 
 ## ✍️ Authors <a name = "authors"></a>
