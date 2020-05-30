@@ -81,4 +81,4 @@ who participated in this project.
 - https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/ - Live Counter Reference
 - https://towardsdatascience.com/monitoring-social-distancing-using-ai-c5b81da44c9f - Social Distancing Model Reference
 - https://www.analyticsvidhya.com/blog/2020/05/social-distancing-detection-tool-deep-learning/ - Blog for Reference
-
+- https://pjreddie.com/darknet/yolo/ - Reference Model
