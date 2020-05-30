@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system enhances crowd control and monitoring.
+<p align="center"> This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system enhances crowd control and monitoring for enterprise managers.
     <br> 
 </p>
 
@@ -30,11 +30,11 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
-Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we believe that there is a need for effective monitoring of social distancing and crowd control.
+## 🧐 Problem Statement: #thispandemic <a name = "problem_statement"></a>
+Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we believe that there is a need for effective monitoring of social distancing and crowd control. Also, there appears to be a significant shift towards ML/Neural Net based approaches to harness computational horsepower for real world applications.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
-A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring.
+A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety.
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
 - To be Updated soon!
@@ -62,7 +62,7 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 - [Python](https://www.python.org/) - Backend
-- To be Updated soon!
+- [OpenCV](https://opencv.org/) - Computer Vision based approaches
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@abhinavvx](https://github.com/abhinavvx) 
