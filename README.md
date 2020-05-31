@@ -23,7 +23,7 @@
 - [Idea / Solution](#idea)
 - [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
-- [Setting up a local environment](#getting_started)
+- [Setting up a realistic local environment](#getting_started)
 - [Usage](#usage)
 - [Technology Stack](#tech_stack)
 - [Contributing](../CONTRIBUTING.md)
@@ -78,7 +78,8 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 - [@legendX25](https://github.com/legendx25)
 
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
+See also all 
+the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
