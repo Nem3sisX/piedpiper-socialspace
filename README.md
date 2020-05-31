@@ -67,6 +67,7 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
                          - [OpenCV](https://opencv.org/)
                          - [TensorFlow](https://www.tensorflow.org/)
                          - [Flutter](https://flutter.dev/)
+                         - [Dlib](https://pypi.org/project/dlib/)
                            
 
 ## ✍️ Authors <a name = "authors"></a>
