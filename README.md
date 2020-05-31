@@ -61,8 +61,13 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
-- [Python](https://www.python.org/) - Backend
-- [OpenCV](https://opencv.org/) - Computer Vision based approaches
+- Programming Language - [Python](https://www.python.org/)
+                         [Dart](https://dart.dev/)
+- Frameworks & Libraries - [Yolo](https://pjreddie.com/darknet/yolo/)
+                           [OpenCV](https://opencv.org/)
+                           [TensorFlow](https://www.tensorflow.org/)
+                           [Flutter](https://flutter.dev/)
+                           
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@abhinavvx](https://github.com/abhinavvx) 
