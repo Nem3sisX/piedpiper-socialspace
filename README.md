@@ -75,7 +75,7 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 - [@Arjunbakshi245](https://github.com/Arjunbakshi245)
 - [@sharmasarthak3d](https://github.com/sharmasarthak3d)
 - [@jatin527](https://github.com/jatin527) 
-- [@ayushgupta](https://github.com/ayushgupta)
+- [@ayushgupta](https://github.com/legendx25)
 
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
