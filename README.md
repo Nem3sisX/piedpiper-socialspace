@@ -9,8 +9,11 @@
 
 
   [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
+  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+  [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) (https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 </div>
@@ -83,6 +86,8 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 - [@jatin527](https://github.com/jatin527) 
 - [@legendX25](https://github.com/legendx25)
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
 
 See also all 
 the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
@@ -95,3 +100,6 @@ who participated in this project.
 - https://pjreddie.com/darknet/yolo/ - Reference Model
 - https://www.youtube.com/watch?v=Cgxsv1riJhI - Inspiration
 
+## 🎉 Badges <a name = "badges"></a>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
