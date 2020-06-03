@@ -9,6 +9,7 @@
 
 
   [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
+  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
   [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
@@ -38,17 +39,30 @@
 - [Acknowledgments](#acknowledgments)
 
 ## 🧐 Problem Statement: #thispandemic <a name = "problem_statement"></a>
-Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. So we believe that there is a need for effective monitoring of social distancing and crowd control. Also, there appears to be a significant shift towards ML/Neural Net based approaches to harness computational horsepower for real world applications.
+Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. COVID-19 has changed our habits, daily routines and, of course, our lives... but there is a change at hand! So we believe that there is a need for effective monitoring of social distancing and crowd control. Also, there appears to be a significant shift towards ML/Neural Net based approaches to harness computational horsepower for real world applications. Stores tend to be overcrowded and 6ft guidelines are not being followed. From store owners to prospective clients, free trade is affected, even for willing entities.
+
+The people have depended on the government to flatten the curve for far too long.
+It’s time we as NUtons, put our minds to work
+
+
 
 ## 💡 Idea / Solution <a name = "idea"></a>
 A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety. This is aimed as a customer-enterprise duo application where both parties can ensure their safety in the coronavirus pandemic of 2020. A computer vision based model detects on the basis of certain classifiers and the unique weights allocated to the parameters. This automates the entire process of evaluating quantitative data from a CCTV video feed with considerable accuracy.
 
+For Customer's point of view our Application entails the user to know the safety index at store, People present and store and gives the functionality to book a visit. The visit timing slots are limited so as to promote social distancing. Users can decide on their optimum time to go to the store to avoid larger crowds at peak.
+
+Facing the collapse of normal activities, it becomes critical for store owners to monitor clientele in the interest of public health safety.
+
+
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-- To be Updated very soon!
+- To be Updated soon!
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 - Can be deployed anywhere and everywhere.
 - Valid Post-Lockdown too.
+- Improving the Enterprise System
+- Broadening our Target Market
+- Integration with various tools out there.
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
@@ -56,7 +70,9 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-- To be Updated soon!
+- All Libraries to run The model.
+- Runs on Basic CPU's as well
+- CrossPlatform Support for both IOS and Android, 
 
 
 ### Installing
@@ -64,7 +80,7 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 
 ## 🎈 Usage <a name="usage"></a>
-- To be Updated very soon!
+- To be Updated soon!
 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
