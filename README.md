@@ -16,6 +16,7 @@
 
   ![](https://img.shields.io/badge/Professor-Sarthak-red)
   ![](https://img.shields.io/badge/Trailblazer-Shresth-blue)
+  ![](https://img.shields.io/badge/Jumper-Arjun-blueviolet)
 </div>
 
 
