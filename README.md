@@ -72,7 +72,7 @@ Facing the collapse of normal activities, it becomes critical for store owners t
 
 ### Prerequisites
 - All Libraries to run The model.
-- Runs on Basic CPU's as well
+- Runs on Basic CPUs as well
 - CrossPlatform Support for both IOS and Android, 
 
 
