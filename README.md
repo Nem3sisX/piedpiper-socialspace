@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h3 align="center">socialspace</h3>
+<h2 align="center">socialspace</h2>
 
 
 <div align="center">
@@ -13,7 +13,7 @@
   [![License](https://img.shields.io/badge/license-MIT-success.svg)](LICENSE.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
  --------------------------------------------------------------------------
-  <h2 align = "center">Our Devs</h2>
+  <h4 align = "center">Our Devs</h4>
   
   ![](https://img.shields.io/badge/professor-Sarthak-red)
   ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
