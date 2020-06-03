@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
 </p>
-<h2 align="center">socialspace</h2>
+<h1 align="center">socialspace</h1>
 
 
 <div align="center">
