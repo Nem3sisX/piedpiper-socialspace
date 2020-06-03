@@ -9,9 +9,11 @@
 
 
   [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
+  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+  [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) (https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 </div>
@@ -20,7 +22,7 @@
 ---
 
 
-<p align="center"> This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system enhances crowd control and monitoring for enterprise managers.
+<p align="center"> Social Distancing Made Easy. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system enhances crowd control and monitoring for enterprise managers and Customers from an app.
     <br> 
 </p>
 
@@ -68,7 +70,7 @@ Facing the collapse of normal activities, it becomes critical for store owners t
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-- All Libraries to run the model.
+- All Libraries to run The model.
 - Runs on Basic CPU's as well
 - CrossPlatform Support for both IOS and Android, 
 
