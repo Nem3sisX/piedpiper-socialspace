@@ -13,7 +13,7 @@
   [![License](https://img.shields.io/badge/license-MIT-success.svg)](LICENSE.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
  --------------------------------------------------------------------------
-  Our Devs
+  <h2 align = "center">Our Devs</h2>
   
   ![](https://img.shields.io/badge/professor-Sarthak-red)
   ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
