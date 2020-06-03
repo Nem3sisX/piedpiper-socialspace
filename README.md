@@ -18,8 +18,8 @@
   ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
   ![](https://img.shields.io/badge/jumper-Arjun-blueviolet)
   ![](https://img.shields.io/badge/allnighter-Abhinav-orange)
-  ![](https://img.shields.io/badge/silent-Ayush-9cf)
-  ![](https://img.shields.io/badge/magic-Jatin-green)
+  ![](https://img.shields.io/badge/critc-Ayush-9cf)
+  ![](https://img.shields.io/badge/magician-Jatin-green)
 </div>
 
 
