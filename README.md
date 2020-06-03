@@ -114,7 +114,7 @@ who participated in this project.
 - https://towardsdatascience.com/monitoring-social-distancing-using-ai-c5b81da44c9f - Social Distancing Model Reference
 - https://www.analyticsvidhya.com/blog/2020/05/social-distancing-detection-tool-deep-learning/ - Blog for Reference
 - https://pjreddie.com/darknet/yolo/ - Reference Model
-- https://www.youtube.com/watch?v=Cgxsv1riJhI - Inspiration
+- [The Ted Talk which made it happen](https://www.youtube.com/watch?v=Cgxsv1riJhI) - Inspiration
 
 ## 🎉 Badges <a name = "badges"></a>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
