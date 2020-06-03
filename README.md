@@ -45,7 +45,7 @@ Due to this Pandemic, Social Distancing would be prevalant in the near upcoming 
 A Social Distancing Alert System. This System uses existing IP cameras and CCTV cameras to detect if people are at a specific distance and adhere to social distancing or not. This system hence aims to enhances crowd control and monitoring for commercial enterprises in the interest of public health safety. This is aimed as a customer-enterprise duo application where both parties can ensure their safety in the coronavirus pandemic of 2020. A computer vision based model detects on the basis of certain classifiers and the unique weights allocated to the parameters. This automates the entire process of evaluating quantitative data from a CCTV video feed with considerable accuracy.
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-- To be Updated soon!
+- To be Updated very soon!
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 - Can be deployed anywhere and everywhere.
@@ -65,7 +65,7 @@ A Social Distancing Alert System. This System uses existing IP cameras and CCTV 
 
 
 ## 🎈 Usage <a name="usage"></a>
-- To be Updated soon!
+- To be Updated very soon!
 
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
