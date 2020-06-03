@@ -55,7 +55,9 @@ Facing the collapse of normal activities, it becomes critical for store owners t
 
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-- To be Updated soon!
+- Dlib
+- OpenCV
+- CMake
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 - Can be deployed anywhere and everywhere.
