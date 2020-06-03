@@ -15,11 +15,11 @@
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
   ![](https://img.shields.io/badge/professor-Sarthak-red)
-  ![](https://img.shields.io/badge/trailblazer-Shresth-success)
+  ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
   ![](https://img.shields.io/badge/jumper-Arjun-blueviolet)
   ![](https://img.shields.io/badge/allnighter-Abhinav-orange)
   ![](https://img.shields.io/badge/silent-Ayush-9cf)
-  ![](https://img.shields.io/badge/magic-Jatin-blue)
+  ![](https://img.shields.io/badge/magic-Jatin-green)
 </div>
 
 
