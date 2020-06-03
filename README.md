@@ -11,7 +11,7 @@
   [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) (https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)(https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 </div>
