@@ -10,14 +10,14 @@
 
   [![HackNUv2.0](https://img.shields.io/badge/hackathon-HackNUv2.0-success)](https://hacknu2-0.github.io/) 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+  [![License](https://img.shields.io/badge/license-MIT-success.svg)](LICENSE.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
   ![](https://img.shields.io/badge/professor-Sarthak-red)
   ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
   ![](https://img.shields.io/badge/jumper-Arjun-blueviolet)
   ![](https://img.shields.io/badge/allnighter-Abhinav-orange)
-  ![](https://img.shields.io/badge/critc-Ayush-9cf)
+  ![](https://img.shields.io/badge/specialist-Ayush-9cf)
   ![](https://img.shields.io/badge/magician-Jatin-green)
 </div>
 
