@@ -9,7 +9,6 @@
 
 
   [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
-  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
   [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
