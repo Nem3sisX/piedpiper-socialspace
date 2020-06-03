@@ -45,7 +45,7 @@
 Due to this Pandemic, Social Distancing would be prevalant in the near upcoming future. COVID-19 has changed our habits, daily routines and, of course, our lives... but there is a change at hand! So we believe that there is a need for effective monitoring of social distancing and crowd control. Also, there appears to be a significant shift towards ML/Neural Net based approaches to harness computational horsepower for real world applications. Stores tend to be overcrowded and 6ft guidelines are not being followed. From store owners to prospective clients, free trade is affected, even for willing entities.
 
 The people have depended on the government to flatten the curve for far too long.
-It’s time we as NUtons, put our minds to work
+It’s time we as NUtons, put our minds to work and figured out a groundbreaking idea.
 
 
 
