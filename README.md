@@ -12,7 +12,7 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-success.svg)](LICENSE.md)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
+ --------------------------------------------------------------------------
   ![](https://img.shields.io/badge/professor-Sarthak-red)
   ![](https://img.shields.io/badge/trailblazer-Shresth-blue)
   ![](https://img.shields.io/badge/jumper-Arjun-blueviolet)
