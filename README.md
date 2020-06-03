@@ -8,7 +8,7 @@
 <div align="center">
 
 
-  [![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
+  [![HackNUv2.0](https://img.shields.io/badge/hackathon-name-orange.svg)](https://hacknu2-0.github.io/) 
   [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
