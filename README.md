@@ -18,7 +18,7 @@
   ![](https://img.shields.io/badge/jumper-Arjun-blueviolet)
   ![](https://img.shields.io/badge/allnighter-Abhinav-orange)
   ![](https://img.shields.io/badge/specialist-Ayush-9cf)
-  ![](https://img.shields.io/badge/magician-Jatin-green)
+  ![](https://img.shields.io/badge/expert-Jatin-green)
 </div>
 
 
