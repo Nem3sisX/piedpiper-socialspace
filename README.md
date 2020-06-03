@@ -68,7 +68,7 @@ Facing the collapse of normal activities, it becomes critical for store owners t
  See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-- All Libraries to run The model.
+- All Libraries to run the model.
 - Runs on Basic CPU's as well
 - CrossPlatform Support for both IOS and Android, 
 
