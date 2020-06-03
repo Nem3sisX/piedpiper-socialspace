@@ -102,7 +102,7 @@ while cap.isOpened():
 
     pedestrian_boxes, num_pedestrians = DNN.detect_pedestrians(frame)
 
-    if len(pedestrian_boxes) >0:
+    if len(pedestrian_boxes) >1:
         pedestrian_detect = plot_pedestrian_boxes_on_image(frame, pedestrian_boxes)
         warped_pts, bird_image = plot_points_on_bird_eye_view(
             frame, pedestrian_boxes, M, scale_w, scale_h
@@ -131,5 +131,5 @@ while cap.isOpened():
 
     cv2.imshow("Video Cam", pedestrian_detect)
     cv2.waitKey(1)
-    output_movie.write(pedestrian_detect)
-    bird_movie.write(bird_image)
+    output_movie.write(pedestrian_detect_view)
+    bird_movie.write(bird_view)
